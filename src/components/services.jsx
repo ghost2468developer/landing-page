@@ -1,4 +1,3 @@
-import React from "react";
 
 export const Services = (props) => {
   return (
@@ -7,8 +6,8 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            At Cyber Cafe, we offer a wide range of digital and tech services designed to 
+            meet the needs of students, professionals, gamers, and everyday users.
           </p>
         </div>
         <div className="row">
