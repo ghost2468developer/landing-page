@@ -98,33 +98,33 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Clean space, fast internet, and super friendly staff! I always come here to work on my assignments and the environment is perfect\"",
+      "name": "Luyanda, M"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I forgot my laptop charger and needed to finish urgent work. The staff let me rent a PC and even helped me transfer my files. Lifesavers\"",
+      "name": "Siyanda, N"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Needed to print, scan, and email documents urgently. They helped me quickly and professionally. Great service\"",
+      "name": "Kimberly, J"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Affordable and reliable! I always use their services to apply for jobs and print important documents. They even helped me write my CV\"",
+      "name": "Popi, K"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I appreciate the peaceful atmosphere and helpful staff. It’s the only internet café I trust for my business tasks\"",
+      "name": "Lehlohonolo, M"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Came here with friends to game—had a blast! The equipment is top-notch, and the hourly rates are fair. We’ll definitely be back\"",
+      "name": "John, L"
     }
   ],
   "Team": [
