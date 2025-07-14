@@ -23,7 +23,7 @@ export const Contact = (props) => {
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_ikbdvb4", "template_jmig0zf", e.target, "3J_AICxHImZsyi2T3")
       .then(
         (result) => {
           console.log(result.text);
@@ -42,10 +42,10 @@ export const Contact = (props) => {
             <div className="row">
               <div className="section-title">
                 <h2>Get In Touch</h2>
-                <p>
+                {/* <p>
                   Please fill out the form below to send us an email and we will
                   get back to you as soon as possible.
-                </p>
+                </p> */}
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
                 <div className="row">
@@ -128,7 +128,7 @@ export const Contact = (props) => {
             <div className="row">
               <div className="social">
                 <ul>
-                  <li>
+                  {/* <li>
                     <a href={props.data ? props.data.facebook : "/"}>
                       <i className="fa fa-facebook"></i>
                     </a>
@@ -142,7 +142,7 @@ export const Contact = (props) => {
                     <a href={props.data ? props.data.youtube : "/"}>
                       <i className="fa fa-youtube"></i>
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
