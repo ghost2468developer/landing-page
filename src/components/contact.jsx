@@ -254,7 +254,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            Developed by: &copy; 2024{" "}
+            Copyright &copy; 2024 Developed by Outlaw_DEV{" "}
           </p>
         </div>
       </div>
