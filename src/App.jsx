@@ -13,14 +13,14 @@ import JsonData from "./data/data.json"
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
-  speedAsDuration: true,
-});
+  speedAsDuration: true
+})
 
 const App = () => {
-  const [landingPageData, setLandingPageData] = useState({});
+  const [landingPageData, setLandingPageData] = useState({})
   useEffect(() => {
-    setLandingPageData(JsonData);
-  }, []);
+    setLandingPageData(JsonData)
+  }, [])
 
   return (
     <div>
@@ -34,7 +34,7 @@ const App = () => {
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
     </div>
-  );
-};
+  )
+}
 
-export default App;
+export default App

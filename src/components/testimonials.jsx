@@ -1,4 +1,3 @@
-import React from "react";
 
 export const Testimonials = (props) => {
   return (
@@ -27,5 +26,5 @@ export const Testimonials = (props) => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
