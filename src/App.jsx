@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 import SmoothScroll from "smooth-scroll"
 import "./App.css"
-import { Team } from "./components/Team"
+// import { Team } from "./components/Team"
 import { About } from "./components/about"
 import { Contact } from "./components/contact"
 //import { Gallery } from "./components/gallery"
@@ -31,7 +31,7 @@ const App = () => {
       <Services data={landingPageData.Services} />
       {/* <Gallery data={landingPageData.Gallery} /> */}
       <Testimonials data={landingPageData.Testimonials} />
-      <Team data={landingPageData.Team} />
+      {/* <Team data={landingPageData.Team} /> */}
       <Contact data={landingPageData.Contact} />
     </div>
   )
